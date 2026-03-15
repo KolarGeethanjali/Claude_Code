@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Claude Code Tutorial: Learn from Scratch
 
 Welcome to your Claude Code learning project! This tutorial teaches you how Claude Code works and how to harness its power using the `.claude` folder. Whether you're new to AI-assisted development or looking to master Claude Code, start here!
@@ -350,6 +349,3 @@ This tutorial project demonstrates:
 ---
 
 **Happy learning! Now open VS Code and start exploring Claude Code! 💻**
-=======
-# Claude_Code_Full_Course
->>>>>>> 75e816b26ff82cce109148a147c703087a8391da
